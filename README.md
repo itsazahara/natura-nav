@@ -1,4 +1,4 @@
-# 🌙 NaturaNav NavBar ☀️
+# 🌙 NaturaNavBar ☀️
 ✨ Interactive navbar with animated icons and hover effects.
 
 ## Features
