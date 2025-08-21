@@ -6,7 +6,6 @@
 - ✨ Icons scale, rotate, and “boing” on hover
 - 🌈 Smooth color transitions and background highlights
 - 🖤 Clean, playful, and modern design
-- 📱 Fully responsive layout for any screen size
 - 🚀 Lightweight and fast animations powered by CSS cubic-bezier
 
 ## CSS Animations Include
